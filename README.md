@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Morgan</h1>
 <h3 align="center">A Passionate Software Developer Based in Dubai, United Arab Emirates</h3>
 
-- 🚗 I currently work at **Valeo - ADAS Algorithms Engineer**
+- 🚗 I currently work at **Siemens - Software Engineer**
 
 - 👨‍💻 All of my projects are available at [github.com/andrewatef](github.com/andrewatef)
 
