@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Problem Solving, Data Structures, and Algorithms**
 
-- 📫 How to reach me **andrewatefawad@gmail.com**
+- 📫 How to reach me **andrewatefmorgan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NSIeJKoGjqfWpuh-QYJBPc1nIYsmp6XX/view?usp=drive_link](https://drive.google.com/file/d/1NSIeJKoGjqfWpuh-QYJBPc1nIYsmp6XX/view?usp=drive_link)
 
