@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Morgan</h1>
 <h3 align="center">A Passionate Software Developer Based in Cairo, Egypt</h3>
 
-- 🚗 I currently work at **Siemens - Software Engineer**
+- 🚗 I currently work at **Luxoft / BMW Group - Software Engineer**
 
 - 👨‍💻 All of my projects are available at [github.com/andrewatef](github.com/andrewatef)
 
