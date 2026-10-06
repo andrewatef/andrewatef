@@ -3,7 +3,7 @@
 
 - 🚗 I currently work at **Luxoft / BMW Group - Software Engineer**
 
-- 👨‍💻 All of my projects are available at [github.com/andrewsworkingnow]
+- 👨‍💻 All of my projects are available at **github.com/andrewsworkingnow**
 
 - 💬 Ask me about **Problem Solving, Data Structures, and Algorithms**
 
